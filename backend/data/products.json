@@ -32,5 +32,22 @@
         "numberOfReviews":18,
         "reviews":[]
 
+    },
+    {
+        "name": "SAMSUNG F23 5G",
+        "price": 300.67,
+        "description": "SAMSUNG F23 5G is a powerful divice with ",
+        "ratings":4.3,
+        "images":[
+            {
+                "image":"products/samsung-f23-5g.jpg"
+            }
+        ],
+        "category": "Mobile Phones",
+        "seller":"Amazon",
+        "stock":6,
+        "numberOfReviews":20,
+        "reviews":[]
+
     }
 ]
