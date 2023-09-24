@@ -1,0 +1,36 @@
+[
+    {
+        "name": "OPPP F21 pro 5G",
+        "price": 245.67,
+        "description": "OPPP F21 pro 5G is a powerful divice with ",
+        "ratings":4.5,
+        "images":[
+            {
+                "image":"products/oppo-f21-pro-5g.jpg"
+            }
+        ],
+        "category": "Mobile Phones",
+        "seller":"Amazon",
+        "stock":5,
+        "numberOfReviews":15,
+        "reviews":[]
+
+    },
+    {
+        "name": "VIVO F21 pro 5G",
+        "price": 300.67,
+        "description": "VIVO F21 pro 5G is a powerful divice with ",
+        "ratings":4.3,
+        "images":[
+            {
+                "image":"products/vivo-f21-pro-5g.jpg"
+            }
+        ],
+        "category": "Mobile Phones",
+        "seller":"Amazon",
+        "stock":10,
+        "numberOfReviews":18,
+        "reviews":[]
+
+    }
+]
