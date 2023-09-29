@@ -66,5 +66,22 @@
         "numberOfReviews":20,
         "reviews":[]
 
+    },
+    {
+        "name": "oppo max 5G",
+        "price": 340.67,
+        "description": "iphone max 5G is a powerful divice with ",
+        "ratings":4.2,
+        "images":[
+            {
+                "image":"products/oppo max-f23-5g.jpg"
+            }
+        ],
+        "category": "Mobile Phones",
+        "seller":"Amazon",
+        "stock":10,
+        "numberOfReviews":20,
+        "reviews":[]
+
     }
 ]
